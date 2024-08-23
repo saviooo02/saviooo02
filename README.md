@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Savio Shaji</h1>
-<h3 align="center">A fullstack developer and engineering student from India !</h3>
-
-- 🔭 I’m currently working on : **Next.JS**
+<h3 align="center">A Fullstack Dev from India !</h3>
 
 - 🌱 I’m currently learning : **Typescript**
 
