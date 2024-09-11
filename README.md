@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Savio Shaji</h1>
-<h3 align="center">A Fullstack Dev from India !</h3>
+<h3 align="center">Web Dev | Open Source Contributor  | Freelancer 
+</h3>
 
-- 🌱 I’m currently learning : **Typescript**
+- 📝 I’m currently learning : **Typescript**
 
-- 💬 Ask me about : **MERN**
 
 
 <h3 align="left">Connect with me:</h3>
